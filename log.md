@@ -38,6 +38,7 @@ Create LifeApp MVP
 - **Daily GitHub Commit:** https://github.com/generoustenacity/100-days-of-code-challenge/commit/49e2d92c3a14dccf9f4d0fa3cd47b2df2a162a01
 - **Other Repos that I worked in:** n/a
 
+
 ### Day 1: July 4, 2025
 
 #### **Today's Progress**: 
@@ -60,5 +61,36 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/elysiumroark/status/1941144901762294259
-- **Daily GitHub Commit:** will upload next day ofc.
+- **Daily GitHub Commit:** [Day 1: Learning Python and Application in Projects](https://github.com/atharvesting/100-days-of-code-challenge/commit/1e0a9816c18cf814b417eef72c924f3ed663c658)
 - **Other Repos that I worked in:** [Life App Latest Commit "V0.1..."](https://github.com/atharvesting/life-app/commit/1dd83ef0a8ca4124099b51c8f8f35d6de85dfdef)
+
+
+### Day 2: July 5, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 1 of Replit's 100 days of Python (see Tweet link below)
+    - Learnt about colour text in Python
+- Worked on Python MOOC by mooc.fi
+    - Got familiar with lists and the various ways to work with them.
+    - Applied the for loop to work with lists and created custom functions for different purposes.
+    - Solved over 20 coding problems related to these topics. Here are some of them:
+        - anagrams
+        - palindromes
+        - distinct numbers
+        - sum of lists
+        - mean
+        - range_of_list
+        - sum_of_positives
+        - negative_to_positive
+        - same characters
+        - star studded
+
+#### **Thoughts:** 
+- I spent a lot of time building my fundamental knowledge of Python and preparing for the MOOC.fi exam.
+- Today was another great day and I look forward to carrying my habit of coding forwards.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/elysiumroark/status/1941482175301550348
+- **Daily GitHub Commit:** [Day 2: Intensive dive into Python fundamentals]()
+- **Other Repos that I worked in:** nil
