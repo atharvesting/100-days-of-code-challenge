@@ -92,5 +92,31 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/elysiumroark/status/1941482175301550348
-- **Daily GitHub Commit:** [Day 2: Intensive dive into Python fundamentals]()
+- **Daily GitHub Commit:** [Day 2: Intensive dive into Python fundamentals](https://github.com/atharvesting/100-days-of-code-challenge/commit/a2a144941ed641974943a6a2c531a99e035c5d26)
 - **Other Repos that I worked in:** nil
+
+
+### Day 3: July 6, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 3 of Replit's 100 days of Python (see Tweet link below)
+    - inout statements
+- Worked on Python MOOC by mooc.fi
+    - Print statement formatting using f strings.
+    - Advanced string manipulation
+    - .isupper()
+    - Solved over 15 coding problems related to these topics.
+- LifeApp project:
+    - Made good progress with the app.
+    - Learned how to create grids of objects using tkinter.
+    - Laid the foundation for the app GUI.
+
+#### **Thoughts:** 
+- Another productive day. Although I find myself using tools like ChatGPT for help more than I'd like.
+- It would be a lot better for me in the long run if I make efforts to deeply consider the logic required for solutions and try my best to solve them before seeking help.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1941824855038702008
+- **Daily GitHub Commit:** [will be stated tomorrow ofc]()
+- **Other Repos that I worked in:** [V0.1.1: GUI enhancement #100docday3](https://github.com/atharvesting/life-app/commit/e619876b50a525a33a668743ea7e6a391ad135d0)
