@@ -118,5 +118,24 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1941824855038702008
-- **Daily GitHub Commit:** [will be stated tomorrow ofc]()
+- **Daily GitHub Commit:** [Day 3: Python fundamentals, Personal Project work](https://github.com/atharvesting/100-days-of-code-challenge/commit/85b2858abc2690fc8c0d7da373fcfe891eb39468)
 - **Other Repos that I worked in:** [V0.1.1: GUI enhancement #100docday3](https://github.com/atharvesting/life-app/commit/e619876b50a525a33a668743ea7e6a391ad135d0)
+
+
+### Day 4: July 7, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 4 of Replit's 100 days of Python (see Tweet link below)
+    - elif statements
+- Worked on Python MOOC by mooc.fi
+    - Finished a mini-project: Course grade calculator and global statistics
+    - Learnt and worked on exercises about lists within lists and matrices using lists.
+
+#### **Thoughts:** 
+- I find that if I mentally go through every step of the code and try to understand the behaviour at every point, it trains my logic and intuition best.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1942230488862843262
+- **Daily GitHub Commit:** [Day 4: Knowledge and exercises on lists and matrices in Python]()
+- **Other Repos that I worked in:** nil
