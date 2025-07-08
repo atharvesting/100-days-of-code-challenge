@@ -137,5 +137,27 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1942230488862843262
-- **Daily GitHub Commit:** [Day 4: Knowledge and exercises on lists and matrices in Python]()
+- **Daily GitHub Commit:** [Day 4: Knowledge and exercises on lists and matrices in Python](https://github.com/atharvesting/100-days-of-code-challenge/commit/d1bdd1875050b6dbfa86a65751330fe42ef1da67)
 - **Other Repos that I worked in:** nil
+
+
+### Day 4: July 7, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 5 of Replit's 100 days of Python (see Tweet link below)
+    - Learnt about type casting and operators
+- Worked on Python MOOC by mooc.fi
+    - Learnt and practiced references, two-dimensional arrays, and dictionaries
+    - Completed over 10 exercises aimed at creating mini-projects for different purposes, for eg. Sudoku player and verifier.
+- Project: LifeApp
+    - Switched from tkinter to pyside6 for better GUI and learnt how to build the fundamental scaffold for the application.
+
+#### **Thoughts:** 
+- I am making great progress every day by learning and applying my knowledge in projects.
+- It is important to push yourself by doing projects that push you beyond your current skills and knowledge to learn best.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1942628647401070681
+- **Daily GitHub Commit:** [Day 5: New foundational Python concepts and Project Work]()
+- **Other Repos that I worked in:** [V.0.1.2: Switched to PySide6 for better GUI. #100docday5](https://github.com/atharvesting/life-app/commit/5db77ce59e84a1d2f7b93a49e3ad00ff85f22591)
