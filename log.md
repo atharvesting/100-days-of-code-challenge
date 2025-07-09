@@ -38,7 +38,6 @@ Create LifeApp MVP
 - **Daily GitHub Commit:** https://github.com/generoustenacity/100-days-of-code-challenge/commit/49e2d92c3a14dccf9f4d0fa3cd47b2df2a162a01
 - **Other Repos that I worked in:** n/a
 
-
 ### Day 1: July 4, 2025
 
 #### **Today's Progress**: 
@@ -63,7 +62,6 @@ Create LifeApp MVP
 - **Daily Tweet:** https://x.com/elysiumroark/status/1941144901762294259
 - **Daily GitHub Commit:** [Day 1: Learning Python and Application in Projects](https://github.com/atharvesting/100-days-of-code-challenge/commit/1e0a9816c18cf814b417eef72c924f3ed663c658)
 - **Other Repos that I worked in:** [Life App Latest Commit "V0.1..."](https://github.com/atharvesting/life-app/commit/1dd83ef0a8ca4124099b51c8f8f35d6de85dfdef)
-
 
 ### Day 2: July 5, 2025
 
@@ -95,7 +93,6 @@ Create LifeApp MVP
 - **Daily GitHub Commit:** [Day 2: Intensive dive into Python fundamentals](https://github.com/atharvesting/100-days-of-code-challenge/commit/a2a144941ed641974943a6a2c531a99e035c5d26)
 - **Other Repos that I worked in:** nil
 
-
 ### Day 3: July 6, 2025
 
 #### **Today's Progress**: 
@@ -121,7 +118,6 @@ Create LifeApp MVP
 - **Daily GitHub Commit:** [Day 3: Python fundamentals, Personal Project work](https://github.com/atharvesting/100-days-of-code-challenge/commit/85b2858abc2690fc8c0d7da373fcfe891eb39468)
 - **Other Repos that I worked in:** [V0.1.1: GUI enhancement #100docday3](https://github.com/atharvesting/life-app/commit/e619876b50a525a33a668743ea7e6a391ad135d0)
 
-
 ### Day 4: July 7, 2025
 
 #### **Today's Progress**: 
@@ -140,8 +136,7 @@ Create LifeApp MVP
 - **Daily GitHub Commit:** [Day 4: Knowledge and exercises on lists and matrices in Python](https://github.com/atharvesting/100-days-of-code-challenge/commit/d1bdd1875050b6dbfa86a65751330fe42ef1da67)
 - **Other Repos that I worked in:** nil
 
-
-### Day 4: July 7, 2025
+### Day 5: July 8, 2025
 
 #### **Today's Progress**: 
 
@@ -159,5 +154,24 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1942628647401070681
-- **Daily GitHub Commit:** [Day 5: New foundational Python concepts and Project Work]()
+- **Daily GitHub Commit:** [Day 5: New foundational Python concepts and Project Work](https://github.com/atharvesting/100-days-of-code-challenge/commit/f7f10c24580e501a5a18a33b19fa19d9cff5e1b7)
 - **Other Repos that I worked in:** [V.0.1.2: Switched to PySide6 for better GUI. #100docday5](https://github.com/atharvesting/life-app/commit/5db77ce59e84a1d2f7b93a49e3ad00ff85f22591)
+
+### Day 6: July 9, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 6 of Replit's 100 days of Python (see Tweet link below)
+    - Worked on more conditional statements.
+- Worked on Python MOOC by mooc.fi
+    - Learnt and practiced dictionary manipulations and function and application of tuples.
+    - Completed over 15 exercises aimed at creating mini-projects for different purposes.
+
+#### **Thoughts:** 
+- I am making great progress every day by learning and applying my knowledge in projects.
+- It is important to push yourself by doing projects that push you beyond your current skills and knowledge to learn best.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1942978877787115994
+- **Daily GitHub Commit:** [Day 6: Further study of Python data structures and mini-projects]()
+- **Other Repos that I worked in:** nil
