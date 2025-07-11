@@ -194,5 +194,22 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1943344915918061909
-- **Daily GitHub Commit:** [Day 6: Diverse learning and practice]()
+- **Daily GitHub Commit:** [Day 7: Diverse learning and practice](https://github.com/atharvesting/100-days-of-code-challenge/commit/87d651ecf622e06680bc9ea142d217ce5b00e2ef)
 - **Other Repos that I worked in:** [V0.1.3: Added basis for page navigation #100docday7](https://github.com/atharvesting/life-app/commit/3e9774f665cafe76ede5215171852269564a1e84)
+
+### Day 7: July 10, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 7 of Replit's 100 days of Python (see Tweet link below):
+    - Restating the condition.
+- Worked on Python MOOC by mooc.fi:
+    - Practiced writing programs to extract and process data from text files (csv)
+
+#### **Thoughts:** 
+- I feel great about my progress. I am learning new things everyday and solidifying my understanding with exercises.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1943654251261010364
+- **Daily GitHub Commit:** [Day 8: Further theory and practice (File Handling)]()
+- **Other Repos that I worked in:** nil
