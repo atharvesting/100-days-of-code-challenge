@@ -230,5 +230,25 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1944249331181400162
-- **Daily GitHub Commit:** [Day 9: Learning and practicing applications of file handling]()
+- **Daily GitHub Commit:** [Day 9: Learning and practicing applications of file handling](https://github.com/atharvesting/100-days-of-code-challenge/commit/b96d252cb939d1e105b3f5793804f10e777fafad)
+- **Other Repos that I worked in:** nil
+
+### Day 10: July 13, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 10 of Replit's 100 days of Python (see Tweet link below):
+    - Mathematical Operators
+- Worked on Python MOOC by mooc.fi:
+    - Learnt more ways to work with files using Python, finished many coding exercises.
+    - Error handling using try and except.
+    - Local and global variables: Pros and Cons and when to use each.
+
+#### **Thoughts:** 
+- Today was a good day for coding. Learnt a lot and immediately applied my knowledge by doing exercises.
+- Surprised that I am already a tenth of the way there with the challenge.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1944368930111230178
+- **Daily GitHub Commit:** [Day 10: File handling, error handling, and local/global variables]()
 - **Other Repos that I worked in:** nil
