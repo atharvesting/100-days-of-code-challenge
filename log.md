@@ -250,5 +250,26 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1944368930111230178
-- **Daily GitHub Commit:** [Day 10: File handling, error handling, and local/global variables]()
+- **Daily GitHub Commit:** [Day 10: File handling, error handling, and local/global variables](https://github.com/atharvesting/100-days-of-code-challenge/commit/04e892454f25aba935959fd72cd28659b624e3b2)
 - **Other Repos that I worked in:** nil
+
+### Day 11: July 14, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 10 of Replit's 100 days of Python (see Tweet link below):
+    - Shared bill split calculator.
+- Worked on Python MOOC by mooc.fi:
+    - Finished more file handling exercises.
+    - Learnt about external python libraries and modules. Worked on exercises on random and math modules.
+- Side Project: Life App
+    - Made progress with the main GUI elements of app. Understanding the app structure using PySide6 has been challenging.
+
+#### **Thoughts:** 
+- Got a lot done and there were plenty of challenges. 
+- Approaching the problem with an open mind and concentration always goes a long way.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1944758404213363020
+- **Daily GitHub Commit:** [Day 11: Rounded day of Theory and Practice. Learnt about modules.]()
+- **Other Repos that I worked in:** [V.0.1.4: Added buttons to the grid view #100docday11](https://github.com/atharvesting/life-app/commit/b8790624971af4bca55a2049600ab2790477aa2b)
