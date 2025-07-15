@@ -257,7 +257,7 @@ Create LifeApp MVP
 
 #### **Today's Progress**: 
 
-- Completed Day 10 of Replit's 100 days of Python (see Tweet link below):
+- Completed Day 11 of Replit's 100 days of Python (see Tweet link below):
     - Shared bill split calculator.
 - Worked on Python MOOC by mooc.fi:
     - Finished more file handling exercises.
@@ -271,5 +271,22 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1944758404213363020
-- **Daily GitHub Commit:** [Day 11: Rounded day of Theory and Practice. Learnt about modules.]()
+- **Daily GitHub Commit:** [Day 11: Rounded day of Theory and Practice. Learnt about modules.](https://github.com/atharvesting/100-days-of-code-challenge/commit/239bc5229dcbc6cde8cf2a822506fc487cc66eeb)
 - **Other Repos that I worked in:** [V.0.1.4: Added buttons to the grid view #100docday11](https://github.com/atharvesting/life-app/commit/b8790624971af4bca55a2049600ab2790477aa2b)
+
+### Day 12: July 15, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 12 of Replit's 100 days of Python (see Tweet link below):
+    - Basic debugging techniques: print statements.
+- Worked on Python MOOC by mooc.fi:
+    - Worked on more exercises on file handling and using external modules.
+
+#### **Thoughts:** 
+- Going well. Will make sure to maintain momentum and push myself even harder.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1945124242812535011
+- **Daily GitHub Commit:** [Day 12: Day of intense practice. File handling and modules]()
+- **Other Repos that I worked in:** nil
