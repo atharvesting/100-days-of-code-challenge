@@ -288,5 +288,21 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1945124242812535011
-- **Daily GitHub Commit:** [Day 12: Day of intense practice. File handling and modules]()
+- **Daily GitHub Commit:** [Day 12: Day of intense practice. File handling and modules](https://github.com/atharvesting/100-days-of-code-challenge/commit/ef9c17196523467a06ed777d88617be02285148b)
+- **Other Repos that I worked in:** nil
+
+### Day 13: July 16, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 13 of Replit's 100 days of Python (see Tweet link below):
+- Worked on Python MOOC by mooc.fi:
+    - Learnt more about modules like datetime, csv and json. Worked on a few exercises.
+
+#### **Thoughts:** 
+- Going well. Will make sure to maintain momentum and push myself even harder.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1945500648646099301
+- **Daily GitHub Commit:** [Day 13: Learning more about modules]()
 - **Other Repos that I worked in:** nil
