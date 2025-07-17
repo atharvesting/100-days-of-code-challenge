@@ -304,5 +304,5 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1945500648646099301
-- **Daily GitHub Commit:** [Day 13: Learning more about modules]()
+- **Daily GitHub Commit:** [Day 13: Learning more about modules](https://github.com/atharvesting/100-days-of-code-challenge/commit/b530671385d2102ff148f1d5d399e0bc012b43c4)
 - **Other Repos that I worked in:** nil
