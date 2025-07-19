@@ -322,3 +322,35 @@ Create LifeApp MVP
 - **Daily Tweet:** https://x.com/atharvesting/status/1945860099953541209
 - **Daily GitHub Commit:** [Day 14: Practice with Python Modules](https://github.com/atharvesting/100-days-of-code-challenge/commit/da2636416e444d60816c1d006ce5d699aa85af03)
 - **Other Repos that I worked in:** nil
+
+### Day 15: July 18, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 15 of Replit's 100 days of Python (see Tweet link below):
+- Worked on Python MOOC by mooc.fi:
+    - Worked on further exercises about modules like datetime, csv and json.
+
+#### **Thoughts:** 
+- I was very busy today so I was not able to do as much as I would have liked. Glad I found the time to at least do a little.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1946246010520699342
+- **Daily GitHub Commit:** [Day 15: Practice with Python Modules](https://github.com/atharvesting/100-days-of-code-challenge/commit/8d636c259813c5fc76bca97867051b2b406475d8)
+- **Other Repos that I worked in:** nil
+
+### Day 16: July 19, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 16 of Replit's 100 days of Python (see Tweet link below):
+- Worked on Python MOOC by mooc.fi:
+    - Took the exam for the Introduction to Programming course by Univerity of Helsinki.
+
+#### **Thoughts:** 
+- Going through a little slump, but glad to have at least done the minimum work.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1946607439463227843
+- **Daily GitHub Commit:** [Day 16: MOOC.fi exam]()
+- **Other Repos that I worked in:** nil
