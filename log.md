@@ -352,5 +352,5 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1946607439463227843
-- **Daily GitHub Commit:** [Day 16: MOOC.fi exam]()
+- **Daily GitHub Commit:** [Day 16: MOOC.fi exam](https://github.com/atharvesting/100-days-of-code-challenge/commit/d0feefcc747e3bcaf292c37877c81f07a1f583cc)
 - **Other Repos that I worked in:** nil
