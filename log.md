@@ -354,3 +354,53 @@ Create LifeApp MVP
 - **Daily Tweet:** https://x.com/atharvesting/status/1946607439463227843
 - **Daily GitHub Commit:** [Day 16: MOOC.fi exam](https://github.com/atharvesting/100-days-of-code-challenge/commit/d0feefcc747e3bcaf292c37877c81f07a1f583cc)
 - **Other Repos that I worked in:** nil
+
+### Day 17: July 20, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 17 of Replit's 100 days of Python (see Tweet link below):
+- Worked on Python MOOC by mooc.fi:
+    - Completed many exercises from the MOOC that I was not able to finish before taking the exam.
+
+#### **Thoughts:** 
+- Good momentum. Learning a lot. Practice is essential to get used to different modules and building intuition.
+- Making the commit one day later as I did not have the time to do so before.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1947339102841409843
+- **Daily GitHub Commit:** [Day 17: Various MOOC.fi exercises](https://github.com/atharvesting/100-days-of-code-challenge/commit/38aee563cae0b738615bdeb911ecc0f75a77aec6)
+- **Other Repos that I worked in:** nil
+
+### Day 18: July 21, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 18 of Replit's 100 days of Python (see Tweet link below):
+- Worked on a mini project (PKM CLI program) that helps me revise everything I have learnt so far. GitHub repo linked below.
+
+#### **Thoughts:** 
+- It was great practice to write an entire large program by myself. 
+- I have made great progress and will be able to finish the project tomorrow.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1947340196904571013
+- **Daily GitHub Commit:** [Day 18: Mini Project (PKCLI)](https://github.com/atharvesting/100-days-of-code-challenge/commit/38aee563cae0b738615bdeb911ecc0f75a77aec6)
+- **Other Repos that I worked in:** [PKICLI Commit](https://github.com/atharvesting/mini-projects/commit/2239b42b2a6ce79bb836a091a056bbfbed3ea56e)
+
+### Day 19: July 22, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 19 of Replit's 100 days of Python (see Tweet link below)
+- Finished the MVP version of the PKCLI mini-project. GitHub repo linked below.
+- Worked on Python MOOC by mooc.fi:
+    - Introduction to object oriented programming.
+
+#### **Thoughts:** 
+- I have realised that it is necessary to quickly focus my efforts on to OOP, as it plays a fundamental and essential part in Python programming.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1947677444401729569
+- **Daily GitHub Commit:** [Day 19: Completion of Mini Project (PKCLI) and learning OOP]()
+- **Other Repos that I worked in:** [PKICLI Commit](https://github.com/atharvesting/mini-projects/commit/4789d4e81b3279fbb97f607d46b44134ce031dc3)
