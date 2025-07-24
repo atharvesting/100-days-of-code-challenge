@@ -405,7 +405,7 @@ Create LifeApp MVP
 - **Daily GitHub Commit:** [Day 19: Completion of Mini Project (PKCLI) and learning OOP](https://github.com/atharvesting/100-days-of-code-challenge/commit/8803814090fa0a08aeb210adbf9a43c4f30c8e83)
 - **Other Repos that I worked in:** [PKICLI Commit](https://github.com/atharvesting/mini-projects/commit/4789d4e81b3279fbb97f607d46b44134ce031dc3)
 
-### Day 19: July 22, 2025
+### Day 20: July 23, 2025
 
 #### **Today's Progress**: 
 
@@ -420,5 +420,19 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1948048689328799890
-- **Daily GitHub Commit:** [Day 20: Deep dive into OOP fundamentals]()
+- **Daily GitHub Commit:** [Day 20: Deep dive into OOP fundamentals](https://github.com/atharvesting/100-days-of-code-challenge/commit/c891cc44eb1496c16f876594d0d3ebff3b1397ec)
+- **Other Repos that I worked in:** nil
+
+### Day 21: July 24, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 21 of Replit's 100 days of Python (see Tweet link below)
+
+#### **Thoughts:** 
+- Going strong.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1948404594226127017
+- **Daily GitHub Commit:** [Day 21: Practice and application of current knowledge]()
 - **Other Repos that I worked in:** nil
