@@ -429,10 +429,43 @@ Create LifeApp MVP
 
 - Completed Day 21 of Replit's 100 days of Python (see Tweet link below)
 
-#### **Thoughts:** 
+#### **Thoughts:**  
 - Going strong.
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1948404594226127017
-- **Daily GitHub Commit:** [Day 21: Practice and application of current knowledge]()
+- **Daily GitHub Commit:** [Day 21: Practice and application of current knowledge](https://github.com/atharvesting/100-days-of-code-challenge/commit/16bf7ff4d2db130b5510996410dbe3fea77cbfe6)
+- **Other Repos that I worked in:** nil
+
+### Day 22: July 25, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 22 of Replit's 100 days of Python (see Tweet link below)
+- Processed and organised a few day's worth of notes. Made Anki flashcards for important concepts.
+
+#### **Thoughts:**  
+- I am already one-fifth of the way there and have learnt a lot so far.
+- One thing that I need to work more on are side projects. They will help me learn new things and practice what I learn.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1949114685644472701
+- **Daily GitHub Commit:** [Day 22: Revision of vital CS concepts]()
+- **Other Repos that I worked in:** nil
+
+### Day 23: July 26, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 23 of Replit's 100 days of Python (see Tweet link below)
+- Processed and organised even more notes. Made Anki flashcards for important concepts.
+- Found very helpful resources such as [Roadmap.sh](roadmap.sh) that is extremely useful as a reliable guide and plan of action.
+
+#### **Thoughts:**  
+- I am very excited about the future as I will soon begin my higher education. I plan to use my time and resources the best way possible.
+- I will learn and work on what matters. It is also important to focus on my development as an individual and what role my education will play in that journey.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1949114735313473696
+- **Daily GitHub Commit:** [Day 23: Further Revision of learnt concepts]()
 - **Other Repos that I worked in:** nil
