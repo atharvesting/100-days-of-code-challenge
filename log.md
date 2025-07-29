@@ -484,7 +484,7 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1950094376803139980
-- **Daily GitHub Commit:** [Day 24-25: OOP Practice]()
+- **Daily GitHub Commit:** [Day 24-25: OOP Practice](https://github.com/atharvesting/100-days-of-code-challenge/commit/1fd1ee726710e573563a97af393ffb96c93dccd0)
 - **Other Repos that I worked in:** nil
 
 ### Day 25: July 28, 2025
@@ -500,5 +500,23 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1950095118268006869
-- **Daily GitHub Commit:** [Day 24-25: OOP Practice]()
+- **Daily GitHub Commit:** [Day 24-25: OOP Practice](https://github.com/atharvesting/100-days-of-code-challenge/commit/1fd1ee726710e573563a97af393ffb96c93dccd0)
 - **Other Repos that I worked in:** nil
+
+### Day 26: July 29, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 26 of Replit's 100 days of Python (see Tweet link below)
+- Worked on Python MOOC by mooc.fi:
+    - Some practice of OOP
+- Side project:
+    - Started refactoring my PKCLI project to use classes and other advanced programming structures.
+
+#### **Thoughts:**  
+- Busy, but going strong.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1950224533564063856
+- **Daily GitHub Commit:** [Day 26: Practice by refactoring old project]()
+- **Other Repos that I worked in:** [Start of PKCLI v2](https://github.com/atharvesting/mini-projects/commit/5a095631c4e5e5d0c04973a59f2e02d797dc0ca3)
