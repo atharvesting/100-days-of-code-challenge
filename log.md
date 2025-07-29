@@ -450,7 +450,7 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1949114685644472701
-- **Daily GitHub Commit:** [Day 22: Revision of vital CS concepts]()
+- **Daily GitHub Commit:** [Day 22-23: Revision of vital CS concepts](https://github.com/atharvesting/100-days-of-code-challenge/commit/b0224fbbb5c861af2a504c3be2abd387964dc905)
 - **Other Repos that I worked in:** nil
 
 ### Day 23: July 26, 2025
@@ -467,5 +467,38 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1949114735313473696
-- **Daily GitHub Commit:** [Day 23: Further Revision of learnt concepts]()
+- **Daily GitHub Commit:** [Day 22-23: Further Revision of learnt concepts](https://github.com/atharvesting/100-days-of-code-challenge/commit/b0224fbbb5c861af2a504c3be2abd387964dc905)
+- **Other Repos that I worked in:** nil
+
+### Day 24: July 27, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 24 of Replit's 100 days of Python (see Tweet link below)
+- Worked on Python MOOC by mooc.fi:
+    - Practiced using objects in various situations and creating methods that clients can use (Encapsulation).
+
+#### **Thoughts:**  
+- I will soon start learning C as preparation for topics to be taught in college. My current proficiency in Python will help me understand the basics quickly.
+- Focus on more tricky topics such as pointers will be necessary.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1950094376803139980
+- **Daily GitHub Commit:** [Day 24-25: OOP Practice]()
+- **Other Repos that I worked in:** nil
+
+### Day 25: July 28, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 25 of Replit's 100 days of Python (see Tweet link below)
+- Worked on Python MOOC by mooc.fi:
+    - Further practice of OOP.
+
+#### **Thoughts:**  
+- My logs are becoming shorter everyday because of my uncertain and busy schedule currently. However, I am glad that I am not compromising on practice.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1950095118268006869
+- **Daily GitHub Commit:** [Day 24-25: OOP Practice]()
 - **Other Repos that I worked in:** nil
