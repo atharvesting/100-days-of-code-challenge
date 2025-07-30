@@ -518,5 +518,23 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1950224533564063856
-- **Daily GitHub Commit:** [Day 26: Practice by refactoring old project]()
+- **Daily GitHub Commit:** [Day 26: Practice by refactoring old project](https://github.com/atharvesting/100-days-of-code-challenge/commit/4e1d974cdb174e6eb7d981050d0a0dbd931611e2)
 - **Other Repos that I worked in:** [Start of PKCLI v2](https://github.com/atharvesting/mini-projects/commit/5a095631c4e5e5d0c04973a59f2e02d797dc0ca3)
+
+### Day 27: July 30, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 27 of Replit's 100 days of Python (see Tweet link below)
+- Worked on Python MOOC by mooc.fi:
+    - Deepened my knowledge of OOP
+    - Objects as attributes
+    - Objects as attributes of other objects
+
+#### **Thoughts:**  
+- Busy, but going strong.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1950575170865045797
+- **Daily GitHub Commit:** [Day 27: Deepening my knowledge of OOP]()
+- **Other Repos that I worked in:** nil
