@@ -536,5 +536,21 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1950575170865045797
-- **Daily GitHub Commit:** [Day 27: Deepening my knowledge of OOP]()
+- **Daily GitHub Commit:** [Day 27: Deepening my knowledge of OOP](https://github.com/atharvesting/100-days-of-code-challenge/commit/29336a2efd5311cc6794e5c0b15e0b74e9d600f8)
+- **Other Repos that I worked in:** nil
+
+### Day 28: July 31, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 28 of Replit's 100 days of Python (see Tweet link below)
+- Covered SQL basics—
+    - SELECT queries, filtering, sorting, JOINs (incl. OUTER), handling NULLs, expressions, aggregates, query order, and CRUD operations (INSERT, UPDATE, DELETE, CREATE, ALTER, DROP tables).
+
+#### **Thoughts:**  
+- Busy, but going strong.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1950930140088701248
+- **Daily GitHub Commit:** [Day 28: Learning SQL Foundations]()
 - **Other Repos that I worked in:** nil
