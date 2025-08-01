@@ -552,5 +552,21 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1950930140088701248
-- **Daily GitHub Commit:** [Day 28: Learning SQL Foundations]()
+- **Daily GitHub Commit:** [Day 28: Learning SQL Foundations](https://github.com/atharvesting/100-days-of-code-challenge/commit/3935840a76db55bbc3ae7e56370eff022ae737cb)
+- **Other Repos that I worked in:** nil
+
+### Day 29: August 1, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 29 of Replit's 100 days of Python (see Tweet link below)
+- Delved deeper into Encapsulation: getter/setter, hidden functions etc. Practiced with many exercises.
+- Started doing HackerRank exercises for SQL and Python.
+
+#### **Thoughts:**  
+- Glad to have found HackerRank as it is a great resource for target practice of various relevant topics and improve my problem-solving skills.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1951318782313439551
+- **Daily GitHub Commit:** [Day 29: Encapsulation in Python and SQL Practice]()
 - **Other Repos that I worked in:** nil
