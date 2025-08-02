@@ -568,5 +568,19 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1951318782313439551
-- **Daily GitHub Commit:** [Day 29: Encapsulation in Python and SQL Practice]()
+- **Daily GitHub Commit:** [Day 29: Encapsulation in Python and SQL Practice](https://github.com/atharvesting/100-days-of-code-challenge/commit/1807e5ed6b672d5249c195af1b66c3e7a45245c1)
+- **Other Repos that I worked in:** nil
+
+### Day 30: August 2, 2025
+
+#### **Today's Progress**: 
+
+- Completed Day 29 of Replit's 100 days of Python (see Tweet link below)
+
+#### **Thoughts:**  
+- Was not able to much done as I was very busy with a situation out of my control.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1951687258261655997
+- **Daily GitHub Commit:** [Day 29: Python practice]()
 - **Other Repos that I worked in:** nil
