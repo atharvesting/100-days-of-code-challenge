@@ -582,5 +582,32 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1951687258261655997
-- **Daily GitHub Commit:** [Day 29: Python practice]()
+- **Daily GitHub Commit:** [Day 29: Python practice](https://github.com/atharvesting/100-days-of-code-challenge/commit/a81493c56c04529fabe45f80eaea559b4c2f82ef)
 - **Other Repos that I worked in:** nil
+
+### Day 31: september 5, 2025
+
+#### **Today's Progress**: 
+
+- Have started fresh with my old project. Worked on the python backend with SQLite database.
+
+#### **Thoughts:**  
+- First commit in a month. Although I have done a lot of learning practice.
+- Have been busy with college. Hope to get back on track and perform consistently.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1964020326691381283
+- **Daily GitHub Commit:** [Day 29: Python practice](https://github.com/atharvesting/100-days-of-code-challenge/commit/a81493c56c04529fabe45f80eaea559b4c2f82ef)
+- **Other Repos that I worked in:** nil
+
+
+3rd aug
+- Hackerrank: python and sql exercises
+
+4th aug
+- MOOC: Inheritance, Practice exercises
+- HackerRank Questions for python and sQL
+
+5th aug
+- MOOC: Access modifiers, Practice questions
+- Started learning about the pandas library from LeetCode
