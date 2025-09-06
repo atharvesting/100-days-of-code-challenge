@@ -585,6 +585,17 @@ Create LifeApp MVP
 - **Daily GitHub Commit:** [Day 29: Python practice](https://github.com/atharvesting/100-days-of-code-challenge/commit/a81493c56c04529fabe45f80eaea559b4c2f82ef)
 - **Other Repos that I worked in:** nil
 
+3rd aug
+- Hackerrank: python and sql exercises
+
+4th aug
+- MOOC: Inheritance, Practice exercises
+- HackerRank Questions for python and sQL
+
+5th aug
+- MOOC: Access modifiers, Practice questions
+- Started learning about the pandas library from LeetCode
+
 ### Day 31: september 5, 2025
 
 #### **Today's Progress**: 
@@ -597,17 +608,22 @@ Create LifeApp MVP
 
 #### **Link to work:**
 - **Daily Tweet:** https://x.com/atharvesting/status/1964020326691381283
-- **Daily GitHub Commit:** [Day 29: Python practice](https://github.com/atharvesting/100-days-of-code-challenge/commit/a81493c56c04529fabe45f80eaea559b4c2f82ef)
+- **Daily GitHub Commit:** [Day 31: Project work](https://github.com/atharvesting/100-days-of-code-challenge/commit/103c284f24e83007ac2a8609445b5331175c447e)
 - **Other Repos that I worked in:** nil
 
+### Day 32: september 6, 2025
 
-3rd aug
-- Hackerrank: python and sql exercises
+#### **Today's Progress**: 
 
-4th aug
-- MOOC: Inheritance, Practice exercises
-- HackerRank Questions for python and sQL
+- Worked some more on the WIAL project.
+    - Added some functions to create new databases. Then learnt that a database can contain many tables. Will work on that tomorrow.
 
-5th aug
-- MOOC: Access modifiers, Practice questions
-- Started learning about the pandas library from LeetCode
+#### **Thoughts:**  
+- nil
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1964366441504727526
+- **Daily GitHub Commit:** [Day 32: Working on WIAL]()
+- **Other Repos that I worked in:** [More functions to create tag dbs #100docday32](https://github.com/atharvesting/wial/commit/0979a9908302f0af05d9a1bea5bbbd046b8b8dfe)
+
+
