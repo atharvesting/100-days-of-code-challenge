@@ -626,4 +626,19 @@ Create LifeApp MVP
 - **Daily GitHub Commit:** [Day 32: Working on WIAL]()
 - **Other Repos that I worked in:** [More functions to create tag dbs #100docday32](https://github.com/atharvesting/wial/commit/0979a9908302f0af05d9a1bea5bbbd046b8b8dfe)
 
+### Day 33: september 9, 2025
+
+#### **Today's Progress**: 
+
+- Worked on the WIAL Project
+    - Worked on the function that adds tags to a weekject. 
+
+#### **Thoughts:**  
+- Took longer than expected but was a great learning experience.
+
+#### **Link to work:**
+- **Daily Tweet:** https://x.com/atharvesting/status/1965457391052628192
+- **Daily GitHub Commit:** [Day 33: Adding Tags in WIAL]()
+- **Other Repos that I worked in:** [Added functionality to assign tags to a weekject #100docday33](https://github.com/atharvesting/wial/commit/c10ac53a6a82aa1567d770a12f79f5199548f8c0)
+
 
